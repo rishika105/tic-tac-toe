@@ -14,4 +14,4 @@ A basic Tic Tac Toe game built using HTML, CSS, and JavaScript.
 - Reset and New Game buttons to start over or begin a new game.
 
 ## Getting Started
-You can play the game [here](#) where it has been deployed. If you want to access the code, you can download the `index.html` file and open it in your web browser to start playing.
+You can play the game [https://tic-tac-toe-rishika-2005.netlify.app/](#) where it has been deployed. If you want to access the code, you can download the `index.html` file and open it in your web browser to start playing.

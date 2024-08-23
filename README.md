@@ -8,6 +8,9 @@ A basic Tic Tac Toe game built using HTML, CSS, and JavaScript.
 - The first player to align three of their marks horizontally, vertically, or diagonally wins the game.
 - If all boxes are filled and no player has aligned three marks, the game ends in a draw.
 
+## Screenshot
+![image](https://github.com/user-attachments/assets/17e70c55-04db-4630-8012-67a984476766)
+
 ## Features
 - Player turns are indicated by the color of the marks: X is red, O is green.
 - A message is displayed to announce the winner or if the game ends in a draw.
